@@ -1,3 +1,4 @@
+Modification pour un second commit
 //---------------------------------------------------------------------------
 // TODO :
 //		- Fonction de décodage des fichiers archivés
